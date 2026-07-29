@@ -1,0 +1,24 @@
+LANDING PAGE — CÓDIGO DO DESPERTAR
+
+ARQUIVO PRINCIPAL
+- index.html
+
+ANTES DE PUBLICAR
+1. Abra o arquivo index.html no Bloco de Notas.
+2. Pesquise por SEUNUMERO e substitua pelo seu WhatsApp com DDI e DDD, apenas números.
+   Exemplo: 5544999999999
+3. Pesquise por LINK_DO_PAGAMENTO e substitua pelo link da sua plataforma de pagamento.
+4. Confirme a data da turma.
+5. Substitua os três depoimentos de exemplo por depoimentos reais.
+6. Caso deseje, substitua as imagens de fundo por fotos reais da imersão.
+
+COMO PUBLICAR E TER UM LINK
+- No Netlify, crie uma conta e arraste esta pasta para a área de publicação.
+- Ou peça para quem cuida do seu site hospedar o index.html em:
+  dratanilamuracami.com.br/codigo-do-despertar
+
+DADOS QUE AINDA PRECISAM SER INSERIDOS
+- Número de WhatsApp
+- Link de pagamento
+- Depoimentos reais
+- Fotos reais, caso deseje
